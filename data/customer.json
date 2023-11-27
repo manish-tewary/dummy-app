@@ -1,0 +1,28 @@
+[
+    {
+        "name":"Rakesh Sinha",
+        "date":"2019-01-01",
+        "reason":"Sick Leave"
+    },
+    {
+        "name":"Suraj Kiran",
+        "date":"2019-01-11",
+        "reason":"Policy"
+    },
+    {
+        "name":"Ram Prasad",
+        "date":"2019-01-21",
+        "reason":"Pricing"
+    },
+    {
+        "name":"Srinivas Gouruntla",
+        "date":"2019-01-05",
+        "reason":"Pricing"
+    },
+    {
+        "name":"Kandavel T",
+        "date":"2019-04-01",
+        "reason":"Policy"
+    }
+   
+]
