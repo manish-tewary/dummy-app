@@ -2,13 +2,8 @@ import { Radar } from "lucide-react";
 import { useState } from "react";
 import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
-import qs from "query-string";
 import { v4 as uuidv4 } from "uuid";
-import axios from "axios";
-// import conversationData from "@/data/conversation.json";
-import { ChatItem } from "../chat/chat-item";
 import { ConversationItem } from "./conversation-item";
-// import { useRouter } from "next/router";
 
 interface ChatMessage {
   uId: string;
