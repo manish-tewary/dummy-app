@@ -1,0 +1,4 @@
+
+.conversationContainer::-webkit-scrollbar{
+  display: none;
+}
